@@ -1,5 +1,5 @@
 {
-    "name": "propaganistas/laravel-intl",
+    "name": "ramonsmit/laravel-intl",
     "description": "Easy to use internationalization functions for Laravel",
     "keywords": [
         "laravel",
@@ -13,6 +13,10 @@
         {
             "name": "Propaganistas",
             "email": "Propaganistas@users.noreply.github.com"
+        },
+        {
+            "name": "Ramon Smit",
+            "email": "rsmit@daltcore.com"
         }
     ],
     "require": {
