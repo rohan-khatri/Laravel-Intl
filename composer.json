@@ -1,5 +1,5 @@
 {
-    "name": "ramonsmit/laravel-intl",
+    "name": "rohan-khatri/laravel-intl",
     "description": "Easy to use internationalization functions for Laravel",
     "keywords": [
         "laravel",
@@ -17,6 +17,10 @@
         {
             "name": "Ramon Smit",
             "email": "rsmit@daltcore.com"
+        },
+        {
+            "name": "Rohan Khatri",
+            "email": "khatrirohan80@gmail.com"
         }
     ],
     "require": {
